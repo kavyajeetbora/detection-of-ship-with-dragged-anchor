@@ -30,10 +30,10 @@ This can provide an early warning system and can prevent from accidents and huge
 
 Ship that was dragging its anchor:
 
-<img src="https://raw.githubusercontent.com/kavyajeetbora/detection-of-ship-with-dragged-anchor/main/result1.PNG"/>
+<img src="https://raw.githubusercontent.com/kavyajeetbora/detection-of-ship-with-dragged-anchor/main/result1.png"/>
 
 Ship that wasn't dragging its anchor:
 
-<img src="https://raw.githubusercontent.com/kavyajeetbora/detection-of-ship-with-dragged-anchor/main/result2.PNG"/>
+<img src="https://raw.githubusercontent.com/kavyajeetbora/detection-of-ship-with-dragged-anchor/main/result2.png"/>
 
 A score was defined which is the fraction of zig-zag motion on heading data detected by the algorithm
