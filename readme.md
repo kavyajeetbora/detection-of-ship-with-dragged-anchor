@@ -1,6 +1,6 @@
 # Detection of ships with dragged anchors
 
-<img src="ship drag.jpg"/>
+<img src="ship drag.JPG"/>
 
 ## Problem statement: 
 - A “dragging anchor” means the ship drifts without holding power even though it has been anchored. This can lead to less or more serious incidents, as collisions, groundings or strandings
@@ -30,10 +30,10 @@ This can provide an early warning system and can prevent from accidents and huge
 
 Ship that was dragging its anchor:
 
-<img src="result1.png"/>
+<img src="https://raw.githubusercontent.com/kavyajeetbora/detection-of-ship-with-dragged-anchor/main/result1.png"/>
 
 Ship that wasn't dragging its anchor:
 
-<img src="result2.png"/>
+<img src="https://raw.githubusercontent.com/kavyajeetbora/detection-of-ship-with-dragged-anchor/main/result2.png"/>
 
 A score was defined which is the fraction of zig-zag motion on heading data detected by the algorithm
